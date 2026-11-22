@@ -2,7 +2,7 @@
 
 Property Desk is a small, **AI-assisted 2026 portfolio rebuild** inspired by my 2024 Real Estate Management Website, the final-year project for my Bachelor of Information Technology (Honours) at MAHSA University. This is newly built demo code, not the original academic submission or a recreation of its exact features. It is not a university or commercial product.
 
-Company name used in the 2024 academic project: Moonlit Holdings Limited. Unofficial academic demo; all listings are fictional.
+Company name used for the 2024 academic project: Moonlit Holdings Limited, based in Bangladesh. Unofficial academic demo; all listings are fictional.
 
 ## Try the demo
 
